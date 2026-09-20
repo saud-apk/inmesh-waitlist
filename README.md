@@ -9,7 +9,7 @@ INMESH is a student-first social network built around a core problem: *Students 
 - Hosted on Netlify
 
 ### 🌐 Live Link
-[inmesh.netlify.app]
+[ inmesh.netlify.app ]
 
 ---
 *Building in public. Zero to billion.*
